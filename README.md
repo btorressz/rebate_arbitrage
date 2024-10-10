@@ -1,7 +1,9 @@
 # rebate_arbitrage
 # Rebate Arbitrage Program
 
-The Rebate Arbitrage program is a smart contract on the Solana blockchain that allows users to interact with a liquidity pool by providing liquidity, staking with lock periods, and trading with slippage while potentially earning rebates. The program also supports adjusting fee rates based on liquidity utilization. This program is anchor based and was made in Solana playground ide.
+The Rebate Arbitrage program is an Anchor-based program deployed on the Solana blockchain. It allows users to participate in a liquidity pool through a variety of operations such as providing liquidity, staking assets with lock periods, and trading while accounting for slippage. Users can earn rebates and rewards through these activities, and the program can dynamically adjust fee rates based on the utilization of the pool's liquidity.
+
+The program was developed using the Anchor framework, which simplifies Solana smart contract development by providing a Rust-based programming model. This program was created in the Solana Playground IDE, a web-based development environment designed for quick prototyping and testing on the Solana network.
 
 ## Program Overview
 
