@@ -139,3 +139,6 @@ The `client.ts` and `anchor.test.ts` files are mainly for internal testing purpo
 
 These scripts include logic to request airdrops for testing accounts to ensure they have enough SOL for transactions and rent exemption.
 - `user_pubkey` (Pubkey): The public key of the user who made the trade.
+
+  ## LICENSE
+  This project is under the **MIT LICENSE**
